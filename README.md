@@ -9,7 +9,7 @@ In order to run this application on a local machine following steps need to be p
 2. Ensure that "npm" is installed on to the machine 
 3. Run "npm install" on command line
 4. There are two ways to run cypress tests locally:
-   #####1. In Cypress Runner:
+   1. In Cypress Runner:
     ➢  on command line, write: "npx cypress open" , or
     ➢  on command line, write: "npm run open"
     ➢  cypress runner will open stating "Welcome To Cypress!"
@@ -22,7 +22,7 @@ In order to run this application on a local machine following steps need to be p
        ☒ User Clicks On “Product” And Then “Visual Review”
        ☒ User Validates Green Circle Around Test Analytics
 
-   #####2. In Headless Mode:
+   2. In Headless Mode:
     ➢  npx cypress run   
     
 ##### SCREENSHOTS AT ROOT LEVEL FOR SUCCESSFULL TEST SUITE RUN  
